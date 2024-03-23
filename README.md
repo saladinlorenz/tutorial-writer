@@ -18,7 +18,7 @@ Note: The usage of LM Studio API is free and does not require an internet connec
    - Set up LM Studio according to the installation instructions provided.
 
 3. **Download a Model**:
-   - Download the Gemma-2b-q16 model or any other model suitable for your needs.
+   - Download the gemma-2b-it.fp16 model or any other model suitable for your needs.
 
 4. **Run the Script**: 
    ```
