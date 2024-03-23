@@ -2,6 +2,8 @@
 
 This tool allows you to interact with the local API of LM Studio by OpenAI to create optimized tutorials suitable for articles and guides. It provides an easy-to-use interface for generating tutorials based on user input and converts them into HTML format for convenient sharing.
 
+Note: The usage of LM Studio API is free and does not require an internet connection.
+
 ## Usage
 
 1. **Clone the repository**: 
@@ -34,7 +36,7 @@ This tool allows you to interact with the local API of LM Studio by OpenAI to cr
 - Python 3.x
 - LM Studio API (running locally)
 
-   Note: The usage of LM Studio API is free and does not require an internet connection.
+   
 
 ## Installation
 
