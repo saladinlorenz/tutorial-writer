@@ -20,15 +20,18 @@ Note: The usage of LM Studio API is free and does not require an internet connec
 3. **Download a Model**:
    - Download the gemma-2b-it.fp16 model or any other model suitable for your needs.
 
-4. **Run the Script**: 
+4. Install necessary packages using pip:
+   - `pip install openai`
+
+5. **Run the Script**: 
    ```
    python run.py
    ```
 
-5. **Input Your Request**: 
+6. **Input Your Request**: 
    - Follow the prompts to input your request for a tutorial. Enter your query when prompted.
 
-6. **Save Tutorial**: 
+7. **Save Tutorial**: 
    - The generated tutorial will be saved as an HTML file and logged in a text file.
 
 ## Requirements
